@@ -176,7 +176,6 @@ project boost/log
         <conditional>@check-instruction-set
         <conditional>@check-atomic-int32
         <conditional>@select-regex-backend
-        <conditional>@check-visibility
         <conditional>@check-pthread-mutex-robust
         <conditional>@check-native-syslog
         <conditional>@check-message-compiler
